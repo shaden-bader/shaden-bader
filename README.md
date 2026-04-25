@@ -8,7 +8,7 @@
 ### 📖 About Me
 I am a Computer Science Engineer passionate about Frontend development. I focus on creating clean, responsive, and smart web applications.
 
-- 🚀 Featured Project: [Smart Task Manager Pro](https://codepen.io/Shaden-badr/pen/PwGMGvK)
+- 🚀 Featured Project: [Smart Task Manager Pro]([https://codepen.io/Shaden-badr/pen/PwGMGvK](https://codepen.io/Shaden-badr/full/PwGMGvK))
 - 🔭 Current Focus: Masterining React.js and UI/UX design.
 - ⚡ Fun Fact: I believe that great engineering starts with a single line of clean code.
 
