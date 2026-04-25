@@ -1,6 +1,6 @@
 # Hi, I'm Shaden 👋  
 
-### 💻 Frontend Developer
+### 💻 Frontend Developer | Computer Science Graduate
 Building responsive web applications using HTML, CSS, and JavaScript.  
 🚀 Currently learning React and working on real projects.
 
