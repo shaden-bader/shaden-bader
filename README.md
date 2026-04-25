@@ -9,6 +9,8 @@
 I am a Computer Science Engineer passionate about Frontend development. I focus on creating clean, responsive, and smart web applications.
 
 - 🚀 Featured Project: [Smart Task Manager Pro](https://codepen.io/Shaden-badr/full/PwGMGvK)
+- * 🌤️ Featured Project: [Weather Tracker Live](https://codepen.io/Shaden-badr/full/ZYpgBeg)  
+  *تطبيق تفاعلي لعرض حالة الطقس المباشرة، يربط بين واجهة المستخدم وبيانات حقيقية عبر API.*
 - ⚡ Fun Fact: I believe that great engineering starts with a single line of clean code.
 
 ---
