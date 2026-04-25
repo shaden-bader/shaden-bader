@@ -18,8 +18,7 @@ I am a Computer Science Engineer passionate about Frontend development. I focus 
 
 ---
 
-### 📊 GitHub Stats
-![Shaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaden-bader&show_icons=true&theme=radical)
+
 
 ---
 
